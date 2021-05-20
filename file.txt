@@ -1,3 +1,4 @@
 Моя первая строка в проекте
 “Paris is the capical of France”
 add err
+add err plus
